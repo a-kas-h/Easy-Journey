@@ -8,6 +8,7 @@
 4. Add, commit and push changes to this branch on the forked repository
 5. From GitHub, create a pull request from the forked repository, which will be sent to the main/original repository.
 6. I will merge your PR into the main repo.
+7.done
 
 # Setting Up the  App
 
